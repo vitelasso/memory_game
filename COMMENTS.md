@@ -53,8 +53,9 @@ left to sucessfully finish the game
 General widgets folder where we should place all extracted widgets that could be reused across the app
 
 ## Testing
-The testing part was taking into account for this app aswell, being accomplished a total of **84.5%** code coverage,
-which seems to me reasonable and a stable metric to push the code.
+The testing part was taking into account for this app aswell, being accomplished a total of **84.5%** 
+code coverage (check in file coverage/html/index.html), which seems to me reasonable and a stable metric to push 
+the code.
 
 The BLoC was tested using the **bloc_test** library and several dependencies were mocked in other to proceed with the
  tests.
